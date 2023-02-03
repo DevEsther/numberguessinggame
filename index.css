@@ -1,0 +1,42 @@
+.head{
+    font-size: 30px;
+    color: white;
+    width:100% ;
+    background-color: black;
+    height: 10vh;
+    text-align: center;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.guess{
+    color: black;
+    font-size: 25px;
+    /* background-color: black; */
+    text-transform: capitalize;
+    width: 50%;
+    text-align: center;
+    margin-left: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-size: 25px; */
+}
+input,button{
+    padding: 15px 5px;
+   
+    border: none;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    text-transform: capitalize;
+     
+    /* color: black; */
+
+}
+input{
+    width: 50%;
+
+}
+.sub{
+    background-color: green;
+    color: white;
+    width: 40%;
+}
